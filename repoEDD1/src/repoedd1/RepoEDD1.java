@@ -15,6 +15,7 @@ public class RepoEDD1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("IDEA ET EAS");
         
     }
     
